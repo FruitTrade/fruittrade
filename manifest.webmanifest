@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "FruitTrade | مدیریت بازرگانی",
+  "short_name": "FruitTrade",
+  "description": "سامانه مدیریت بازرگانی میوه و صیفی‌جات",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#102b25",
+  "orientation": "any",
+  "icons": [{"src": "./fruittrade-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}
